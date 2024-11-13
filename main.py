@@ -67,9 +67,6 @@ def Mode_Result(left2, col, need, Det_he):
     # R1.grid(row=0,column=0)
 
 
-
-
-
 def ds(topl, pieable, count, element, table, to_remember_color):
     i = 0
     for x in table:
